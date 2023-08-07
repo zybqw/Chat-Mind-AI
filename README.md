@@ -74,3 +74,8 @@
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zybqw/Chat-Mind-AI&type=Date)](https://star-history.com/#zybqw//Chat-Mind-AI&Date)
+
+
+## b站
+
+[![BiliBili](https://space.bilibili.com/185482178)]
