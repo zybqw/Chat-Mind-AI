@@ -1,6 +1,6 @@
 # Chat-Mind-AI 
 
-**Chat-Mind-AI**是由[Chat Mind AI](https://beta.chatmindai.net)网站开发者及用户发起的一项分享提示词以及使用教程的开源存储库
+**Chat-Mind-AI**是由[Chat Mind AI](https://beta.chatmindai.net)网站开发者及用户发起的分享提示词以及使用教程的开源存储库
 
 [![林枫 Eason](https://img.shields.io/badge/林枫%20Eason-66ccff)](https://github.com/ylfdgithub) 
 [![李奕宸](https://img.shields.io/badge/李奕宸-66ccff)](https://github.com/AWSkyHalgodooDLYC) 
