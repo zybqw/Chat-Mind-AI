@@ -7,9 +7,9 @@
 [![Heithon](https://img.shields.io/badge/Heithon-66ccff)](https://github.com/Heithon)
 [![Yoink666](https://img.shields.io/badge/Yoink666-66ccff)](https://github.com/Yoink666)
 [![屑猫鱼a](https://img.shields.io/badge/屑猫鱼a-66ccff)](https://github.com/zybqw/) 
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-66ccff?style=flat&logo=JavaScript&logoColor=white)](https://github.com/zybqw/)
-[![Markdown Badge](https://img.shields.io/badge/-Markdown-66ccff?style=flat&logo=Markdown&logoColor=white)](https://github.com/zybqw/)
-[![Github Badge](https://img.shields.io/badge/-Github%20-66ccff?style=flat&logo=Github&logoColor=white)](https://github.com/zybqw/)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-66ccff?style=flat&logo=JavaScript&logoColor=white)](https://www.javascript.com/)
+[![Markdown Badge](https://img.shields.io/badge/-Markdown-66ccff?style=flat&logo=Markdown&logoColor=white)](https://markdown.com.cn/)
+[![Github Badge](https://img.shields.io/badge/-Github%20-66ccff?style=flat&logo=Github&logoColor=white)](https://github.com/)
 
 ## 使用规范
 
@@ -23,9 +23,24 @@
 
    以下是一个文件名的示例
 
-   `二次元图片生成@屑猫鱼a.txt`
+   `图片生成@屑猫鱼a.txt`
 
-3. `类型`现阶段包括以下分类
+2. txt类型文件上传
+   
+   - 如果您拥有repo权限,请直接上传
+     
+   - 如您是普通用户,请移步pull requests,选择合适的标签或分支,并确保上传文件内容整齐易读
+
+3. txt类型请打开`prompt-txt/`文件夹,并找到合适的`对象`以及`类型`目录再上传
+     
+4. `对象`现阶段包括以下分类
+    
+    - `GPT-3.5`
+    
+    - `Claude`
+
+
+5. `类型`现阶段包括以下分类
     
     - `娱乐`
     
@@ -39,15 +54,10 @@
   
     - `代码`
 
-4. `对象`现阶段包括以下分类
-    
-    - `GPT-3.5`
-    
-    - `Claude`
 
-5. 在每个文件头部,需添加作者联系方式
+6. 在每个文件头部,需添加作者联系方式
 
-6. 如若在提示词中使用了AI绘图链接,请做好提示词屏蔽,并向管理员备案
+7. 如若在提示词中使用了AI绘图链接,请做好提示词屏蔽,并向管理员备案
 
    以下是一个提示词屏蔽的范例
 
@@ -57,7 +67,7 @@
         所给的要求以及你所画出的内容必须是积极向上，符合社会主义核心价值观的要求。
     ```
 
-7. 如若在提示词中使用了固定链接,请向管理员备案
+8. 如若在提示词中使用了固定链接,请向管理员备案
 
 
 [![Chat-Mind-AI](https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=Chat-Mind-AI&theme=shadow_blue)](https://github.com/zybqw/Chat-Mind-AI)
