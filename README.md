@@ -3,7 +3,7 @@
 
 **Chat-Mind-AI**是由[Chat Mind AI](https://beta.chatmindai.net)网站开发者及用户发起的分享提示词以及使用教程的开源存储库
 
-[![林枫 Eason](https://img.shields.io/badge/林枫%20Eason（SuperNova）-66ccff)](https://github.com/ylfdgithub) 
+[![林枫 Eason](https://img.shields.io/badge/林枫%20Eason-66ccff)](https://github.com/ylfdgithub) 
 [![李奕宸](https://img.shields.io/badge/李奕宸-66ccff)](https://github.com/AWSkyHalgodooDLYC) 
 [![Heithon](https://img.shields.io/badge/Heithon-66ccff)](https://github.com/Heithon)
 [![Yoink666](https://img.shields.io/badge/Yoink666-66ccff)](https://github.com/Yoink666)
@@ -78,10 +78,10 @@
 
 ## BILIBILI
 
-[![林中-风语](https://img.shields.io/badge/林中--风语（anxianyu）-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/185482178)
+[![林中-风语](https://img.shields.io/badge/林中--风语-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/185482178)
 [![Followers](https://bilistats.lonelyion.com/followers?uid=185482178&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/185482178)
 
-[![爱玩algodoo的李奕宸](https://img.shields.io/badge/爱玩（光遇和）algodoo的李奕宸-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/1074723532)
+[![爱玩algodoo的李奕宸](https://img.shields.io/badge/爱玩algodoo的李奕宸-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/1074723532)
 [![Followers](https://bilistats.lonelyion.com/followers?uid=1074723532&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/1074723532)
 
 [![yioink](https://img.shields.io/badge/yioink-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/652136080)
