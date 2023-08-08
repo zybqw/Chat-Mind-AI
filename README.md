@@ -76,8 +76,11 @@
 [![Star History Chart](https://api.star-history.com/svg?repos=zybqw/Chat-Mind-AI&type=Date)](https://star-history.com/#zybqw//Chat-Mind-AI&Date)
 
 
-## b站
+## BILIBILI
 
 [![林中-风语](https://img.shields.io/badge/林中--风语-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/185482178)
 [![Followers](https://bilistats.lonelyion.com/followers?uid=185482178&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/185482178)
-[![Level](https://bilistats.lonelyion.com/level?uid=185482178&style=flat&color=66ccff&label=等级&label_color=white)](https://space.bilibili.com/185482178)
+
+[![Heithooon](https://img.shields.io/badge/Heithooon-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/1657376973)
+[![Followers](https://bilistats.lonelyion.com/followers?uid=1657376973&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/1657376973)
+
