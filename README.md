@@ -79,3 +79,5 @@
 ## b站
 
 [林中-风语](https://space.bilibili.com/185482178)
+![Followers](https://bilistats.lonelyion.com/followers?uid=185482178)
+
