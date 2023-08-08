@@ -11,7 +11,7 @@
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-66ccff?style=flat&logo=JavaScript&logoColor=white)](https://www.javascript.com/)
 [![Markdown Badge](https://img.shields.io/badge/-Markdown-66ccff?style=flat&logo=Markdown&logoColor=white)](https://markdown.com.cn/)
 [![Github Badge](https://img.shields.io/badge/-Github%20-66ccff?style=flat&logo=Github&logoColor=white)](https://github.com/)
-[![Bilibili Badge](https://img.shields.io/badge/-bilibili%20-66ccff?style=flat&logo=Bilibili&logoColor=white)](https://github.com/)
+[![Bilibili Badge](https://img.shields.io/badge/-Bilibili%20-66ccff?style=flat&logo=Bilibili&logoColor=white)](https://github.com/)
 
 ## 使用规范
 
