@@ -90,3 +90,6 @@
 [![Heithooon](https://img.shields.io/badge/Heithooon-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/1657376973)
 [![Followers](https://bilistats.lonelyion.com/followers?uid=1657376973&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/1657376973)
 
+[![屑猫鱼a](https://img.shields.io/badge/屑猫鱼a-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/194038337)
+[![Followers](https://bilistats.lonelyion.com/followers?uid=1940383037&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/1940383037)
+
