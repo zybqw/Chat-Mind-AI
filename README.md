@@ -78,6 +78,6 @@
 
 ## b站
 
-[林中-风语](https://space.bilibili.com/185482178)
+[![林中-风语](https://img.shields.io/badge/%E6%9E%97%E4%B8%AD--%E9%A3%8E%E8%AF%AD-66ccff?style=flat-suuare&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/185482178)
 ![Followers](https://bilistats.lonelyion.com/followers?uid=185482178)
 
