@@ -76,9 +76,8 @@
 8. 如若在提示词中使用了固定链接,请向管理员备案
    
 ## 近期比赛
-![signs](https://beta.chatmindai.net/activeWhite.png)
 
-[梦开始的地方](https://va9f5btz2fn.feishu.cn/docx/WY8SdMGfNo7t3vxuDgjcC8LxnCh?from=from_copylink)
+[![signs](https://beta.chatmindai.net/activeWhite.png)](https://va9f5btz2fn.feishu.cn/docx/WY8SdMGfNo7t3vxuDgjcC8LxnCh?from=from_copylink)
 
 ## Star History
 
