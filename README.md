@@ -15,7 +15,7 @@
 
 ## ai操控指南
 
-[《咒术引导同典》](https://docs.qq.com/doc/DWUxMenBZUnd4TUlr?_t=1691558171804&u=1743f1cc031b4ed9b7a977f294b0194c)
+[《咒术引导同典》](https://docs.qq.com/doc/DWUxMenBZUnd4TUlr)
 
 ## 使用规范
 
