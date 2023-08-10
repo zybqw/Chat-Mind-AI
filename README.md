@@ -17,6 +17,8 @@
 
 [《咒术引导同典》](https://docs.qq.com/doc/DWUxMenBZUnd4TUlr)
 
+[《结构化prompt》](https://mp.weixin.qq.com/s/N9BrkDqvkIHQD7TTnhNk6Q)
+
 ## 使用规范
 
 ### 提示词
