@@ -1,4 +1,4 @@
-![signs](https://beta.chatmindai.net/Logo.png)
+![signs](https://github.com/zybqw/Chat-Mind-AI/blob/main/banner.png?raw=true)
 # Chat-Mind-AI 
 
 **Chat-Mind-AI**是由[Chat Mind AI](https://beta.chatmindai.net)网站开发者及用户发起的分享提示词以及使用教程的开源存储库
