@@ -8,6 +8,7 @@
 [![Heithon](https://img.shields.io/badge/Heithon-66ccff)](https://github.com/Heithon)
 [![Yoink666](https://img.shields.io/badge/Yoink666-66ccff)](https://github.com/Yoink666)
 [![屑猫鱼a](https://img.shields.io/badge/屑猫鱼a-66ccff)](https://github.com/zybqw/) 
+[![白White](https://img.shields.io/badge/白White-66ccff)](https://github.com/shiheishan) 
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-66ccff?style=flat&logo=JavaScript&logoColor=white)](https://www.javascript.com/)
 [![Markdown Badge](https://img.shields.io/badge/-Markdown-66ccff?style=flat&logo=Markdown&logoColor=white)](https://markdown.com.cn/)
 [![Github Badge](https://img.shields.io/badge/-Github%20-66ccff?style=flat&logo=Github&logoColor=white)](https://github.com/)
@@ -95,7 +96,7 @@
 
 [![林中-风语](https://img.shields.io/badge/林中--风语-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/185482178)
 [![Followers](https://bilistats.lonelyion.com/followers?uid=185482178&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/185482178)
-
+1
 [![爱玩algodoo的李奕宸](https://img.shields.io/badge/爱玩algodoo的李奕宸-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/1074723532)
 [![Followers](https://bilistats.lonelyion.com/followers?uid=1074723532&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/1074723532)
 
@@ -107,4 +108,7 @@
 
 [![屑猫鱼a](https://img.shields.io/badge/屑猫鱼a-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/194038337)
 [![Followers](https://bilistats.lonelyion.com/followers?uid=1940383037&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/1940383037)
+
+[![白white](https://img.shields.io/badge/白white-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/601792688)
+[![Followers](https://bilistats.lonelyion.com/followers?uid=601792688&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/601792688)
 
