@@ -96,7 +96,7 @@
 
 [![林中-风语](https://img.shields.io/badge/林中--风语-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/185482178)
 [![Followers](https://bilistats.lonelyion.com/followers?uid=185482178&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/185482178)
-1
+
 [![爱玩algodoo的李奕宸](https://img.shields.io/badge/爱玩algodoo的李奕宸-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/1074723532)
 [![Followers](https://bilistats.lonelyion.com/followers?uid=1074723532&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/1074723532)
 
