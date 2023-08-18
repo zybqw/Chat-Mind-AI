@@ -96,6 +96,11 @@
 
 [![signs](https://beta.chatmindai.net/activeWhite.png)](https://va9f5btz2fn.feishu.cn/docx/WY8SdMGfNo7t3vxuDgjcC8LxnCh?from=from_copylink)
 
+## 比赛结果
+
+![The End](https://github.com/zybqw/Chat-Mind-AI/assets/132246733/6fb163c6-0e1b-431a-a40f-149dd8f2caf7)
+
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zybqw/Chat-Mind-AI&type=Date)](https://star-history.com/#zybqw//Chat-Mind-AI&Date)
