@@ -1,0 +1,6 @@
+{
+    "module": "function调用控制模块",
+    "description": "可以根据对话上下文和提问，去选择性调用加载的function",
+    ""
+
+}
