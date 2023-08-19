@@ -170,7 +170,6 @@ Chat Mind API 项目由网站社区用户发起，旨在为广大用户提供快
 [![Followers](https://bilistats.lonelyion.com/followers?uid=652136080&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/652136080)
 
 [![Heithooon](https://img.shields.io/badge/Heithooon-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/1657376973)
-
 [![Followers](https://bilistats.lonelyion.com/followers?uid=1657376973&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/1657376973)
 
 [![屑猫鱼a](https://img.shields.io/badge/屑猫鱼a-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/194038337)
