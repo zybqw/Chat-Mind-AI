@@ -20,7 +20,7 @@
 
 [《结构化prompt》](https://mp.weixin.qq.com/s/N9BrkDqvkIHQD7TTnhNk6Q)
 
-[如何用 ChatGPT 生成惊艳的 AI 绘画描述词](https://zhuanlan.zhihu.com/p/597512241)
+[《如何用 ChatGPT 生成惊艳的 AI 绘画描述词》](https://zhuanlan.zhihu.com/p/597512241)
 
 ## 使用规范
 
