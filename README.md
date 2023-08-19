@@ -1,4 +1,9 @@
 ![banner](image/banner-v2.png)
+
+> [Chat Mind AI prompt](#chat-mind-ai-prompt)
+
+> [Chat Mind API](#chat-mind-api)
+ 
 # Chat-Mind-AI 
 
 > **Chat-Mind-AI**是由[Chat Mind AI](https://beta.chatmindai.net)网站开发者及用户发起的分享提示词以及使用教程的开源存储库
@@ -13,6 +18,8 @@
 [![Markdown Badge](https://img.shields.io/badge/-Markdown-66ccff?style=flat&logo=Markdown&logoColor=white)](https://markdown.com.cn/)
 [![Github Badge](https://img.shields.io/badge/-Github%20-66ccff?style=flat&logo=Github&logoColor=white)](https://github.com/)
 [![Bilibili Badge](https://img.shields.io/badge/-Bilibili%20-66ccff?style=flat&logo=Bilibili&logoColor=white)](https://github.com/)
+
+# Chat Mind AI prompt
 
 ## ai操控指南
 
