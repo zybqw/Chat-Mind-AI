@@ -136,12 +136,17 @@ Chat Mind API 项目由网站社区用户发起，旨在为广大用户提供快
 
 如果你想参与本文档的编写与维护，并且符合以下要求，请发送邮件到[zybqw@qq.com](mailto:zybqw@qq.com)，并附上你的Chat Mind AI ID、QQ、Github 等信息
 
-- 精通 markdown 语法
+- 精通 Github Flavored Markdown 语法
 - 熟练使用 [GIT](https://www.liaoxuefeng.com/wiki/896043488029600)，掌握提交，处理冲突，版本控制等基本操作
 - 有 Github 账号，会使用 Github 进行协作开发
 - 有基本的网络通信知识
 - 有团队合作意识，根据要求进行开发
 
+使用文档推荐
+
+- [GitHub 文档](https://docs.github.com/zh)
+- [README文件语法解读](https://github.com/guodongxiaren/README)
+  
 > 查看[贡献指南](/CONTRIBUTING.md)
 
 ## 问题反馈
