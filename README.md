@@ -127,6 +127,7 @@ Chat Mind API 项目由网站社区用户发起，旨在为广大用户提供快
 
 **注意**
 
+   - **`API`** 现阶段包括 角色探索`explore`，聊天页`chat`，我的空间`myspace`，设置中心`profile`
    - 没有特殊标注的 API 都基于这个 URL：`https://beta.chatmindai.net/api`
    - 大部分 API 介绍出于隐私等原因，不提供请求示例，请自行尝试
    - 如果请求不需要用到 `Authorization`，不会专门标注
@@ -169,10 +170,12 @@ Chat Mind API 项目由网站社区用户发起，旨在为广大用户提供快
 [![Followers](https://bilistats.lonelyion.com/followers?uid=652136080&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/652136080)
 
 [![Heithooon](https://img.shields.io/badge/Heithooon-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/1657376973)
+
 [![Followers](https://bilistats.lonelyion.com/followers?uid=1657376973&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/1657376973)
 
 [![屑猫鱼a](https://img.shields.io/badge/屑猫鱼a-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/194038337)
 [![Followers](https://bilistats.lonelyion.com/followers?uid=1940383037&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/1940383037)
+
 
 [![白white](https://img.shields.io/badge/白white-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/601792688)
 [![Followers](https://bilistats.lonelyion.com/followers?uid=601792688&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/601792688)
