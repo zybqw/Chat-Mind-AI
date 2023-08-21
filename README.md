@@ -155,6 +155,36 @@ Chat Mind API 项目由网站社区用户发起，旨在为广大用户提供快
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zybqw/Chat-Mind-AI&type=Date)](https://star-history.com/#zybqw//Chat-Mind-AI&Date)
 
+## 我们的qq群
+#### 玩耍群：
+1.535518015 
+
+2.150284262
+
+3.686896568
+
+4.718980627
+
+5.820916955
+
+6.757734068
+
+7.343401955
+
+8.435713009
+
+9.784933778
+
+10.452085764
+
+11.375713032
+
+12.274820797
+
+#### 创作群：
+884516979
+#### 宣传群：
+61041398
 ## BILIBILI
 
 [![林中-风语](https://img.shields.io/badge/林中--风语-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/185482178)
