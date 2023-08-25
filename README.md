@@ -194,3 +194,5 @@ Chat Mind API 项目由网站社区用户发起，旨在为广大用户提供快
 [![白white](https://img.shields.io/badge/白white-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/601792688)
 [![Followers](https://bilistats.lonelyion.com/followers?uid=601792688&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/601792688)
 
+## chatmindai
+请认准我们的[无敌管理员月月](https://beta.chatmindai.net/userSpace?id=9)
