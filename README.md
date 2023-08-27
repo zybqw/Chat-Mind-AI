@@ -198,4 +198,5 @@ Chat Mind API 项目由网站社区用户发起，旨在为广大用户提供快
 ## discord
 这是我们的[discord](https://discord.gg/5ZAv2HFN)
 ## chatmindai
-请认准我们的[无敌管理员月月](https://beta.chatmindai.net/userSpace?id=9)
+请认准我们的[无敌管理员月月](https://beta.chatmindai.net/userSpace?id=9)   
+![](https://x.chatmindai.net/api/uploads/reviewImage/2023/08/08/1691495718860.jpg)
