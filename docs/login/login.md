@@ -27,9 +27,6 @@
 |     avatar      |                  头像链接                   | string |
 |      token      |                Authorization                | string |
 |   inviteCode    |                   邀请码                    | string |
-|    birthday     |                 生日时间戳                  |  int   |
-|       qq        |                   QQ 号码                   | string |
-|   description   |                  自我描述                   | string |
 |   expireTime    |                   `未知`                    |  int   |
 | checkDaysCount  |                   `未知`                    |  int   |
 |   checkStatus   |                   `未知`                    |  bool  |
@@ -53,31 +50,32 @@
 
 #### inBagModels
 
-|    key    |                value                 |  type  |
-| :-------: | :----------------------------------: | :----: |
-|  roleId   |               角色 id                | string |
-|  avatar   |               角色头像               | string |
-|   name    |               角色名称               | string |
-| modelName | 使用模型名称（[查看详情](#modelname) | string |
+|    key    |                 value                  |  type  |
+| :-------: | :------------------------------------: | :----: |
+|  roleId   |                角色 id                 | string |
+|  avatar   |                角色头像                | string |
+|   name    |                角色名称                | string |
+| modelName | 使用模型名称（[查看详情](#modelname)） | string |
 
 ##### modelName
 
 模型详情见`profile`
-| platform | value |
-| :---------------: | :---------------: |
-| MindGen 3.5 | gpt-3.5-turbo-16k |
-| MindGen 4.0 | `未知`|
-| Clara+ | `未知`|
-| 文心大模型 | `未知`|
-|GLM-3| `未知`|
-|GLM-4| `未知`|
-|Clara3-Opus| `未知`|
-|Clara3-Sonnet| `未知`|
-|deepseek2 chat| `未知`|
-|qwen2 72b| `未知`|
-|qwen1.5 110b| `未知`|
-|qwen a14b| `未知`|
-|混元 lite 256k| `未知`|
+
+|    platform    |       value       |
+| :------------: | :---------------: |
+|  MindGen 3.5   | gpt-3.5-turbo-16k |
+|  MindGen 4.0   |      `未知`       |
+|     Clara+     |      `未知`       |
+|   文心大模型   |      `未知`       |
+|     GLM-3      |      `未知`       |
+|     GLM-4      |      `未知`       |
+|  Clara3-Opus   |      `未知`       |
+| Clara3-Sonnet  |      `未知`       |
+| deepseek2 chat |      `未知`       |
+|   qwen2 72b    |      `未知`       |
+|  qwen1.5 110b  |      `未知`       |
+|   qwen a14b    |      `未知`       |
+| 混元 lite 256k |      `未知`       |
 
 > 其余待补充
 

@@ -27,9 +27,6 @@
 |     avatar      |                  头像链接                   | string |
 |      token      |                Authorization                | string |
 |   inviteCode    |                   邀请码                    | string |
-|    birthday     |                 生日时间戳                  |  int   |
-|       qq        |                   QQ 号码                   | string |
-|   description   |                  自我描述                   | string |
 |   expireTime    |                   `未知`                    |  int   |
 | checkDaysCount  |                   `未知`                    |  int   |
 |   checkStatus   |                   `未知`                    |  bool  |
@@ -53,12 +50,12 @@
 
 #### inBagModels
 
-|    key    |                value                 |  type  |
-| :-------: | :----------------------------------: | :----: |
-|  roleId   |               角色 id                | string |
-|  avatar   |               角色头像               | string |
-|   name    |               角色名称               | string |
-| modelName | 使用模型名称（[查看详情](#modelname) | string |
+|    key    |                 value                  |  type  |
+| :-------: | :------------------------------------: | :----: |
+|  roleId   |                角色 id                 | string |
+|  avatar   |                角色头像                | string |
+|   name    |                角色名称                | string |
+| modelName | 使用模型名称（[查看详情](#modelname)） | string |
 
 ##### modelName
 
